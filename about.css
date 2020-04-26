@@ -4,16 +4,16 @@
     width: 500px;
     height: 420px;
     background: rgb(153, 70, 231);
-    padding: 40px;
+    padding: 36px;
     text-align: center;
     margin: auto;
-    margin-top: 10%;
+    margin-top: 6%;
     color:white;
 }
 
 .box{
-border-radius: 50%;
-width: 240px;
+border-radius: 100%;
+width: 245px;
 height: 250px;
 
 }
